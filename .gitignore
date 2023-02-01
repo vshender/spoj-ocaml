@@ -1,0 +1,7 @@
+*~
+\#*
+*.cm[iox]
+*.o
+*.exe
+_build/
+_opam/
