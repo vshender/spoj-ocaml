@@ -10,3 +10,4 @@ OCaml solutions to the problems from the [SPOJ platform](https://www.spoj.com/).
 |     5 | PALIN      | [The Next Palindrome](00005.palin/README.md)                                                    |
 |     6 | ARITH      | [Simple Arithmetics](00006.arith/README.md)                                                     |
 |     7 | BULK       | [The Bulk!](00007.bulk/README.md)                                                               |
+|     8 | CMPLS      | [Complete the Sequence!](00008.cmpls/README.md)                                                 |
